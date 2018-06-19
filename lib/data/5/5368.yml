@@ -292,13 +292,13 @@
 '536829':
   bin: '536829'
   brand: MASTERCARD
-  type: ''
+  type: 'DEBIT'
   category: ''
-  issuer: ''
+  issuer: 'VTB24 (PJSC)'
   country:
-    alpha_2: US
-    alpha_3: USA
-    name: United States
+    alpha_2: RU
+    alpha_3: RUS
+    name: RUSSIAN FEDERATION
 '536830':
   bin: '536830'
   brand: MASTERCARD
