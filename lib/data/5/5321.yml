@@ -302,13 +302,13 @@
 '532130':
   bin: '532130'
   brand: MASTERCARD
-  type: ''
-  category: ''
-  issuer: ''
+  type: 'DEBIT'
+  category: 'NEW WORLD'
+  issuer: 'PUBLIC JOINT-STOCK COMPANY BANK OTKRITIE FINANCIAL CORPORATION'
   country:
-    alpha_2: US
-    alpha_3: USA
-    name: United States
+    alpha_2: RU
+    alpha_3: RUS
+    name: RUSSIAN FEDERATION
 '532131':
   bin: '532131'
   brand: MASTERCARD
