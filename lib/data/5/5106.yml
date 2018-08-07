@@ -212,13 +212,13 @@
 '510621':
   bin: '510621'
   brand: MASTERCARD
-  type: ''
+  type: 'DEBIT'
   category: ''
-  issuer: CARD SERVICES FOR CREDIT UNIONS, INC.
+  issuer: YANDEX.MONEY NBCO LLC
   country:
-    alpha_2: US
-    alpha_3: USA
-    name: United States
+    alpha_2: RU
+    alpha_3: RUS
+    name: RUSSIAN FEDERATION
 '510622':
   bin: '510622'
   brand: MASTERCARD
