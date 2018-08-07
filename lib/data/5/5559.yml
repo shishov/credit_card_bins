@@ -472,13 +472,13 @@
 '555947':
   bin: '555947'
   brand: MASTERCARD
-  type: ''
+  type: 'CREDIT'
   category: ''
-  issuer: ''
+  issuer: 'JOINT STOCK COMPANY ALFA-BANK'
   country:
-    alpha_2: US
-    alpha_3: USA
-    name: United States
+    alpha_2: RU
+    alpha_3: RUS
+    name: RUSSIAN FEDERATION
 '555948':
   bin: '555948'
   brand: MASTERCARD
@@ -493,7 +493,7 @@
   bin: '555949'
   brand: MASTERCARD
   type: DEBIT
-  category: 
+  category:
   issuer: CJSC ALFA-BANK
   country:
     alpha_2: RU
