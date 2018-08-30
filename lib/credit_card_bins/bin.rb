@@ -49,6 +49,18 @@ class CreditCardBins::Bin
     @data["country"]
   end
 
+  def country_alpha2
+    @data.dig('country', 'alpha_2')
+  end
+
+  def country_alpha3
+    @data.dig('country', 'alpha_2')
+  end
+
+  def country_name
+    @data.dig('country', 'name')
+  end
+
   ### Brand
 
   def private_label?
@@ -89,6 +101,10 @@ class CreditCardBins::Bin
 
   def mastercard?
     @data["brand"] == "MASTERCARD"
+  end
+
+  def mir?
+    @data["brand"] == 'NSPK MIR'
   end
 
   def laser?
