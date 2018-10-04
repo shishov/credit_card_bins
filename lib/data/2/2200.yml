@@ -1,0 +1,11 @@
+---
+'220002':
+  bin: '220002'
+  brand: NSPK MIR
+  type: DEBIT
+  category: ''
+  issuer: RUSSIAN NATIONAL COMMERCIAL BANK OJSC
+  country:
+    alpha_2: RU
+    alpha_3: RUS
+    name: RUSSIAN FEDERATION
