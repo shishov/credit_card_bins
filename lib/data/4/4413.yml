@@ -183,12 +183,12 @@
   bin: '441318'
   brand: VISA
   type: CREDIT
-  category: PLATINUM
-  issuer: FIRST NATIONAL BANK OF OMAHA
+  category: ''
+  issuer: AKB SVIAZ-BANK OJSC
   country:
-    alpha_2: US
-    alpha_3: USA
-    name: United States
+    alpha_2: RU
+    alpha_3: RUS
+    name: RUSSIAN FEDERATION
 '441319':
   bin: '441319'
   brand: VISA
