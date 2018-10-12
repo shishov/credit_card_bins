@@ -1,0 +1,11 @@
+---
+'537541':
+  bin: '537541'
+  brand: MASTERCARD
+  type: DEBIT
+  category: ''
+  issuer: 'OJSC UNIVERSAL BANK'
+  country:
+    alpha_2: UA
+    alpha_3: UKR
+    name: UKRAINE
