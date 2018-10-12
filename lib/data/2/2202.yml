@@ -1,0 +1,11 @@
+---
+'220220':
+  bin: '213100'
+  brand: 'NSPK MIR'
+  type: DEBIT
+  category: 'CLASSIC'
+  issuer: 'SAVINGS BANK OF THE RUSSIAN FEDERATION (SBERBANK)'
+  country:
+    alpha_2: RU
+    alpha_3: RUS
+    name: RUSSIAN FEDERATION
