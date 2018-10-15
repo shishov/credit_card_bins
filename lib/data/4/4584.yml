@@ -432,13 +432,13 @@
 '458443':
   bin: '458443'
   brand: VISA
-  type: ''
-  category: ''
-  issuer: ''
+  type: 'DEBIT'
+  category: 'REWARDS'
+  issuer: 'CJSC ALFA-BANK'
   country:
-    alpha_2: CA
-    alpha_3: CAN
-    name: Canada
+    alpha_2: RU
+    alpha_3: RUS
+    name: RUSSIAN FEDERATION
 '458444':
   bin: '458444'
   brand: VISA
